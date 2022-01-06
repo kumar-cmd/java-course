@@ -10,8 +10,8 @@ public class helloworld{
   }
 }
 ```
-* All code in Java lives within a class
-* Modifier **public** specifies visibility
+* All methodes in Java lives within a class
+* Modifier **public** specifies visibility of method out side of class
 * Fix a function name that will be called by default - From C, the convention is to call this function **main()**
 * Specify input and output types for main()
   - The signature of main()
